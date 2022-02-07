@@ -1,0 +1,5 @@
+name: BedwarsEngine
+author: godfather
+version: 1.0
+main: org.godfather.bedwars.Main
+description: Bedwars plugin by Godfather

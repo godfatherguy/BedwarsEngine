@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BedwarsEngine:jar">
+    <output-path>$USER_HOME$/Desktop/bin</output-path>
+    <root id="archive" name="BedwarsEngine.jar">
+      <element id="module-output" name="BedwarsEngine" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/spigot-1.8.8.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
